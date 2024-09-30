@@ -4,7 +4,7 @@ const String url = 'http://147.182.232.146:3000/';
 // const String url = 'https://b3d6-182-185-226-52.ngrok-free.app';
 const String baseUrl = '$url/api/v1/';
 const String userExpired = "Not Authorized";
-const String googleMapKey = 'AIzaSyALtywJGaRIoFBo1sv3C6NJRmZ80_diz3U';
+const String googleMapKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 const double hMargin = 20;
 const double vMargin = 12;
