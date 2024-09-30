@@ -10,6 +10,6 @@ class StaticInfo {
   static String? fcmToken;
   static Driver? selectedDriver;
   static RoutesResponseModel? routesResponseModel;
-  static String googleApiKey = "AIzaSyC2NBxKnMKxtJ-gQKnWFSzQnH_McwrFS-8";
+  static String googleApiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 }
